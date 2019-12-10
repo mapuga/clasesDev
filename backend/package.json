@@ -1,0 +1,14 @@
+{
+  "name": "miprimerbackend",
+  "version": "1.0.0",
+  "description": "Este es mi primer backend que hago con express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marco Puga",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
